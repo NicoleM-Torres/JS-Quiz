@@ -36,7 +36,7 @@ console.log(lastCity);
 
 //#endregion
 
-//#region Q1
+//#region Q6
 let x = 7;
 if (x > 5 && x < 10) {
   console.log("In Range");
